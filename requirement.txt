@@ -1,0 +1,8 @@
+pyttsx3
+opencv-python
+pywhatkit
+pyautogui
+wikipedia
+selenium
+playsound==1.2.2
+requests
