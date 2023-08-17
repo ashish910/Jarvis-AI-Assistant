@@ -4,15 +4,22 @@ Jarvis Interaction with GUI
 ![image](https://github.com/ashish910/Jarvis-AI-Assistant/assets/52947578/d23e1447-1f2b-40b4-99b9-977dc8b30612)
 
 Today whether and enter your city name with your choice
+
+
 ![image](https://github.com/ashish910/Jarvis-AI-Assistant/assets/52947578/8621860b-e1a3-4cde-b288-db48cb04b120)
 
 To find where we are
+
+
 ![image](https://github.com/ashish910/Jarvis-AI-Assistant/assets/52947578/4eec1cc8-4506-44fb-be5c-78f63f8e9a94)
 
 To Check the Temperature ,Humidity and Wind Speed 
+
+
 ![image](https://github.com/ashish910/Jarvis-AI-Assistant/assets/52947578/81a589a9-1308-4126-ad3e-465773446647)
 
 Check Battery Percentage
+
 ![image](https://github.com/ashish910/Jarvis-AI-Assistant/assets/52947578/6bd565be-16e7-4b92-99c1-79068e4c72fe)
 
 Open WhatsApp and Message automatically
